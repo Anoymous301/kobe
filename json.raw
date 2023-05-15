@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Francis Kobe Loyola Mappala",
+      "age": 23,
+      "quote": "To shine your brightest light is to be who you truly are. -Roy T."
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3B",
+      "code": "T230",
+      "email": "1901101010@student.buksu.edu.ph"
+    }
+  ]
+}
